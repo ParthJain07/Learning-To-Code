@@ -1,0 +1,9 @@
+22 nd December 2024
+Solving  Neetcode 150
+Array 
+	->Contians Duplicate
+	->Valid Anagram
+		->Use of map and frequency of char
+		->usde of find()-> if(mp.find(t[i]) != mp.end())
+	->Two Sum Array
+		->calculated the deff and check the map for deff element
