@@ -1,0 +1,13 @@
+23rd December 2024
+Solving  Neetcode 150
+Array 
+	->Group Anagrams
+		->use of map with vecor as key
+		->store sorted string and then traverse on the nums
+	->Top K Frequent Elements
+		->use of mp to count frequency of element
+		->create pair by switching the  value and key
+		->sort by frequency
+		->print while looping till k 
+	->Encode and Decode Strings   
+		->use of char 0xFFFFFF
