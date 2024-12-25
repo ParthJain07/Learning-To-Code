@@ -1,0 +1,10 @@
+23rd December 2024
+Solving  Neetcode 150
+Array 
+	->Products of Array Except Self
+		->multiply all number and then divide prd with each number
+	->Valid Sudoku 
+		->need to work 
+	->Longest Consecutive Sequence
+		->sort and then compare 
+		
