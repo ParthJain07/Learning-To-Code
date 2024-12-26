@@ -1,0 +1,10 @@
+25th December 2024
+Solving  Neetcode 150
+Array 
+	->Valid Palindrome
+		->use of isalnum() function
+	->Two Integer Sum II
+		->use of binary search 
+	->3 sum
+		->use of binary search inside for loop
+		
