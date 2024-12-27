@@ -1,0 +1,12 @@
+26th December 2024
+Solving  Neetcode 150
+Array 
+	->Container With Most Water
+        ->use of two pointer checking min height and taking max area
+    ->Trapping Rain Water 
+        ->use of varibale sliding window
+        ->taking min of max height from left max of height from right at index
+        ->subtracting index value and storing 
+    ->Best Time to Buy And Sell Stock
+        ->taking min value and checking diff on other day
+		
