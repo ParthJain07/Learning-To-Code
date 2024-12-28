@@ -1,0 +1,14 @@
+27th December 2024
+Solving  Neetcode 150
+Array, slinding window 
+    ->Longest Substring Without Repeating Characters
+        ->use of slinding window
+        ->check freq fo each char and then take the max of res , r-l+1
+    ->Longest Repeating Character Replacement
+        ->store freq of each
+        ->max freq in map
+        ->loop ( condition strlen=j-i+1 and subtra largest distinct char that is max freq ) > k
+            -> decrement freq of l and increment l 
+        -> store maxlen(strlen, maxlen)
+	
+		
