@@ -1,0 +1,11 @@
+6th Jan 2025
+Solving  Neetcode 150
+Array, slinding window
+    ->Minimum Window Substring
+        ->using hasmap for t string store freqency in 256 char vector
+        ->same loop subtracting the s char freq and count 
+        ->when cont is == t string break 
+        ->check length till this char, j - i + 1 < minRes
+        -> calculate substr(sindex, minRes)
+    ->Sliding Window Maximum
+        ->nested loop till i+k out loop till n-k
