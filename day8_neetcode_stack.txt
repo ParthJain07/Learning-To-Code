@@ -1,0 +1,14 @@
+7th Jan 2025
+Solving  Neetcode 150
+Stack
+    ->Valid parenthesis
+        ->put open brackets into Stack
+        ->when element -> closed brackets
+        ->check stack top -> if same pair then pop()
+        ->if stack empty return true inside loop
+        ->return stak.empty()
+    ->Minimum Stack
+        ->create stack functions like 
+        ->insert element
+        ->get top 
+        -> get top element
