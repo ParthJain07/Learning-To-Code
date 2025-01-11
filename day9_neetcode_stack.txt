@@ -1,0 +1,13 @@
+11th Jan 2025
+Solving  Neetcode 150
+Stack
+    ->Evaluate Reverse Polish Notation
+        ->check the string for operation
+        ->use of stoi to convert the string to number
+    ->Generate Parentheses
+        ->Use of backtracking backtrack(int openN, int closedN, int n, vector<string>& res, string& stack)
+        ->(openN == closedN && openN == n) for pushing the stack
+        ->(openN < n)  for adding the '(' calling backtrack where opn+1 
+        ->(closedN < openN) for adding the ')' calling backtrack where closed+1
+    ->Daily Temperatures
+        
