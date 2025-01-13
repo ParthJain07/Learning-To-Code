@@ -1,0 +1,13 @@
+13th Jan 
+Solving  Neetcode 150
+Stack
+    ->Car Fleet
+        ->put pair{pos, speed}
+        ->sort from end
+        ->push time into stack and compare with next time 
+        ->pop()
+    
+Revision SDE-1
+    ->Set Matrix Zero
+    ->Pasca'l Triangle
+    ->next permtation
