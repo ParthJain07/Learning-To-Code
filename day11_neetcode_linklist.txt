@@ -1,0 +1,15 @@
+14th Feb 
+Solving  Neetcode 150
+Linked List
+    ->Reverse Linked List
+        ->create prev and curr node 
+        ->storing curr->next in temp 
+        ->swapping curr->next with prev
+    ->Merge Two Sorted Linked Lists
+        ->create dmy node
+        ->check l1 and l2 node val
+    ->Linked List Cycle Detection
+        ->create fast and slow pointer
+        ->fast= fast->fast->next
+        -> slow=slow->next
+        ->if fast= slow return true
