@@ -1,0 +1,13 @@
+04th April
+Solving Neetcode 150
+Binary Search
+    ->Time Based Key-Value Store
+        ->Uses an unordered_map<string, vector<pair<int, string>>> mp to store key-value pairs.
+        ->Uses Binary Search to efficiently find the required value.
+        ->Check if key exists in mp. If not, return an empty string ("").
+        ->Edge Case: If the earliest timestamp for this key is greater than timestamp, return "".
+        ->Binary Search on timestamps:
+        ->If mid timestamp matches, return the value.
+        ->If mid timestamp is less than the given timestamp, update ans and search right.
+        ->Otherwise, search left.
+        ->Return the last valid value found (ans).
